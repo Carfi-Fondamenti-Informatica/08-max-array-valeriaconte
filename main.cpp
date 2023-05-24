@@ -11,6 +11,5 @@ int main () {
     }
     float m=n_max(max, n);
     cout<<m;
-
     return 0;
 }
